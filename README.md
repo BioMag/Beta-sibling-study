@@ -1,7 +1,6 @@
 # Beta-sibling-study
-Code used to generate the MEG phenotype data describing sensorimotor spectral properties and beta event characteristics used in beta sibling manuscript
 
-The published code was used to obtain the data presented in the manuscript entitled ‘Human sensorimotor beta event characteristics and aperiodic signal are highly heritable’ by Pauls et al. available at https://biorxiv.org/cgi/content/short/2023.02.10.527950v1.
+The published code was used to obtain the MEG phenotype data describing sensorimotor spectral properties and beta event characteristics presented in the manuscript entitled ‘Human sensorimotor beta event characteristics and aperiodic signal are highly heritable’ by Pauls et al. available at https://biorxiv.org/cgi/content/short/2023.02.10.527950v1.
 
 The analysis was carried out using MNE version 0.22.0, Python version 3.8.6, Numpy version 1.20.1, Scipy version 1.6, and Pandas version 1.2.2.
 
